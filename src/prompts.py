@@ -1,6 +1,5 @@
 """
 Shared interactive prompt helpers.
-Copy this file into the src/ folder of every tool that uses it.
 """
 import os
 import sys
