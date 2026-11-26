@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 PDF Report Generator
-Shared module: copy into the src/ folder of every tool that makes PDF reports.
 """
 
 from datetime import datetime
